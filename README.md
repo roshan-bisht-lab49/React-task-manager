@@ -1,1 +1,1 @@
-# React-task-manager
+# Veritask-ReactNative
